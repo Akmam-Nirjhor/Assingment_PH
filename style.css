@@ -378,3 +378,13 @@ body {
   height: 292px;
   flex-shrink: 0;
 }
+
+.girl img {
+  position: relative;
+  bottom: -30px;
+  left: 1039px;
+  bottom: 862px;
+  width: 278px;
+  height: 292px;
+  flex-shrink: 0;
+}
