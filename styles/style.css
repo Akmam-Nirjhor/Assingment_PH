@@ -376,17 +376,17 @@ body {
   position: relative;
   bottom: -30px;
   left: 1039px;
-  bottom: 862px;
+  bottom: 828px;
   width: 278px;
-  height: 292px;
+  height: 262px;
   flex-shrink: 0;
 }
 
-.girl img {
+.offer img {
   position: relative;
-  bottom: -30px;
-  left: 1039px;
-  bottom: 862px;
+  /* bottom: -100px; */
+  left: 899px;
+  bottom: 1150px;
   width: 278px;
   height: 292px;
   flex-shrink: 0;
