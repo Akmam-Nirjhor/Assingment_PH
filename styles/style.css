@@ -487,6 +487,51 @@ body {
   top: -1050px;
   left: 965px;
 }
+.tag {
+  color: #ede9e9;
+
+  font-family: Inter;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  position: relative;
+  top: -380px;
+  left: -70px;
+}
+.Unsubscribe {
+  color: rgb(236, 225, 225);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  position: relative;
+  top: -430px;
+  left: 980px;
+}
+
+.beg img,
+.abeg img,
+.show img,
+.hilshow img,
+.sun_glass img,
+.ring img {
+  width: 369px;
+  height: 274px;
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+/* Styles on hover */
+.beg img:hover,
+.abeg img:hover,
+.show img:hover,
+.hilshow img:hover,
+.sun_glass img:hover,
+.ring img:hover {
+  transform: scale(1.1);
+}
 
 .subscribe {
   padding: 2px 2px;
@@ -563,21 +608,50 @@ body {
   margin-left: 750px;
   margin-top: -91px;
 }
+.tag {
+  color: #ede9e9;
 
-.btn button {
-  /* padding: 2px 2px 2px 2px; */
-  background: #f3f2f500;
-
-  color: #280606;
-
-  text-align: center;
   font-family: Inter;
-  font-size: 15px;
-  top: 20px;
-  /* font-style: normal; */
-  /* font-weight: 600; */
-  /* line-height: normal; */
-  /* text-transform: capitalize; */
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  position: relative;
+  top: -380px;
+  left: -70px;
+}
+.Unsubscribe {
+  color: rgb(236, 225, 225);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  position: relative;
+  top: -430px;
+  left: 980px;
+}
+
+.beg img,
+.abeg img,
+.show img,
+.hilshow img,
+.sun_glass img,
+.ring img {
+  width: 369px;
+  height: 274px;
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+/* Styles on hover */
+.beg img:hover,
+.abeg img:hover,
+.show img:hover,
+.hilshow img:hover,
+.sun_glass img:hover,
+.ring img:hover {
+  transform: scale(1.1);
 }
 
 .last {
@@ -630,11 +704,11 @@ body {
 }
 
 .picture img {
-  width: 50px; /* Adjust this to your desired width */
-  height: auto; /* Automatically scales height while maintaining aspect ratio */
+  width: 54px;
+  height: auto;
   position: relative;
-  top: -360px;
-  left: -200px;
+  top: -357px;
+  left: -207px;
 }
 
 .inst img {
@@ -653,28 +727,4 @@ body {
   top: -469px;
   left: 501px;
   /* right: 140px; */
-}
-
-.tag {
-  color: #ede9e9;
-
-  font-family: Inter;
-  font-size: 21px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: normal;
-  position: relative;
-  top: -380px;
-  left: -70px;
-}
-.Unsubscribe {
-  color: rgb(236, 225, 225);
-  font-family: Inter;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: normal;
-  position: relative;
-  top: -430px;
-  left: 980px;
 }
