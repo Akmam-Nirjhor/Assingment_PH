@@ -200,7 +200,7 @@ body {
 }
 
 .comming_soon {
-  background-color: rgba(71, 26, 71, 0.206);
+  background-color: rgba(241, 235, 241, 0.206);
   margin-top: 70px;
   position: relative;
   width: 1320px;
@@ -226,7 +226,7 @@ body {
 }
 
 .Coming_Soon {
-  color: rgb(241, 236, 236);
+  color: rgb(23, 3, 3);
   text-align: left;
   font-family: Inter;
   font-size: 30px;
@@ -393,7 +393,7 @@ body {
 }
 
 .awsoame_portfolio {
-  background-color: rgba(187, 131, 131, 0.222);
+  background-color: rgba(240, 235, 235, 0.222);
   margin-top: 70px;
   position: relative;
   width: 1320px;
