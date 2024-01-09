@@ -112,6 +112,12 @@ body {
   left: 00px;
 }
 
+.funny img {
+  position: absolute;
+  right: 20px;
+  margin-left: 20px;
+  margin-top: 70px;
+}
 .Dolor_sit {
   color: rgba(255, 255, 255, 0.434);
 
