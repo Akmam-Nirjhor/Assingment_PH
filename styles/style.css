@@ -628,3 +628,53 @@ body {
   top: -400px;
   left: 880px;
 }
+
+.picture img {
+  width: 50px; /* Adjust this to your desired width */
+  height: auto; /* Automatically scales height while maintaining aspect ratio */
+  position: relative;
+  top: -360px;
+  left: -200px;
+}
+
+.inst img {
+  width: 50px; /* Adjust this to your desired width */
+  height: auto; /* Automatically scales height while maintaining aspect ratio */
+  position: relative;
+  top: -416px;
+  left: 426px;
+  /* right: 140px; */
+}
+
+.link img {
+  width: 50px; /* Adjust this to your desired width */
+  height: auto; /* Automatically scales height while maintaining aspect ratio */
+  position: relative;
+  top: -469px;
+  left: 501px;
+  /* right: 140px; */
+}
+
+.tag {
+  color: #ede9e9;
+
+  font-family: Inter;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  position: relative;
+  top: -380px;
+  left: -70px;
+}
+.Unsubscribe {
+  color: rgb(236, 225, 225);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  position: relative;
+  top: -430px;
+  left: 980px;
+}
