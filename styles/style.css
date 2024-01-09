@@ -393,13 +393,13 @@ body {
 }
 
 .awsoame_portfolio {
-  background-color: rgba(240, 235, 235, 0.222);
+  background-color: rgba(233, 231, 231, 0.222);
   margin-top: 70px;
   position: relative;
   width: 1320px;
   right: 160px;
   margin-top: 100px;
-  height: 750px;
+  height: 850px;
   flex-shrink: 0;
 }
 
@@ -435,9 +435,11 @@ body {
 }
 
 .beg img {
-  width: 400px;
-  height: 420px;
+  width: 369px;
+  height: 274px;
   position: relative;
+  left: -0px;
+  top: -40px;
 }
 
 .abeg img {
@@ -450,9 +452,38 @@ body {
   width: 320px;
   height: 350px;
   /* flex-shrink: 0; * */
-  width: 400px;
-  height: 420px;
+  width: 369px;
+  height: 274px;
   position: relative;
-  top: -420px;
-  left: 480px;
+  top: -320px;
+  left: 490px;
+}
+.show img {
+  width: 369px;
+  height: 274px;
+  position: relative;
+  top: -598px;
+  left: 952px;
+}
+
+.hilshow img {
+  width: 369px;
+  height: 274px;
+  position: relative;
+  top: -490px;
+}
+.sun_glass img {
+  width: 369px;
+  height: 274px;
+  position: relative;
+  top: -770px;
+  left: 500px;
+}
+
+.ring img {
+  width: 369px;
+  height: 274px;
+  position: relative;
+  top: -1050px;
+  left: 965px;
 }
