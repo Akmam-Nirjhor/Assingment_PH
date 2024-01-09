@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(237, 194, 106);
+  background-color: rgb(250, 244, 233);
   padding: 10px;
 }
 .head {
@@ -492,12 +492,13 @@ body {
   padding: 2px 2px;
   margin-top: 100px;
   position: relative;
-  background-color: #f00;
+  border-radius: 16px;
+  background: rgba(255, 0, 0, 0.05);
 
   background-position: center;
   background-size: contain;
   width: 1320px;
-  height: 650px;
+  height: 600px;
 
   margin-left: -155px;
   margin-top: 100px;
@@ -506,10 +507,124 @@ body {
 .picture img {
   position: relative;
   padding-left: 551px;
-  margin-top: 70px;
+  margin-top: 40px;
   width: 130px;
 }
 .Subscribe_Newsletter {
   font-size: 35px;
   margin-left: 410px;
+}
+
+.contentO {
+  color: rgba(7, 2, 17, 0.6);
+  margin-top: -30px;
+
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+}
+
+/* Using !important to prioritize styles */
+.box {
+  position: relative;
+  /* width: 3500px; */
+
+  bottom: 46px;
+  left: 100px;
+}
+
+.box input {
+  font-size: 15px;
+  width: 13.5%;
+  height: 30px;
+  background-color: bisque;
+  border: 3px solid rgb(95, 45, 9);
+  margin-left: 280px;
+  width: 470px;
+  height: 40px;
+  flex-shrink: 0;
+  margin-top: 113px;
+  /* border-radius: 500px; */
+  /* box-shadow: 5px 5px; */
+  /* padding: 10px 10px 10px 10px; */
+}
+
+.btn {
+  width: 80px;
+  height: 5px;
+  flex-shrink: 0;
+  border-radius: 0px 50px 50px 0px;
+  background: #f00;
+  padding: 30px 30px 10px 10px;
+  position: relative;
+  margin-left: 750px;
+  margin-top: -91px;
+}
+
+.btn button {
+  /* padding: 2px 2px 2px 2px; */
+  background: #f3f2f500;
+
+  color: #280606;
+
+  text-align: center;
+  font-family: Inter;
+  font-size: 15px;
+  top: 20px;
+  /* font-style: normal; */
+  /* font-weight: 600; */
+  /* line-height: normal; */
+  /* text-transform: capitalize; */
+}
+
+.last {
+  position: relative;
+  background: #070211;
+  background-position: center;
+  background-size: contain;
+  width: 1320px;
+  height: 500px;
+
+  margin-left: -150px;
+  margin-top: 100px;
+}
+
+.letter {
+  color: #fff;
+  color: #fff;
+
+  font-family: Inter;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px; /* 166.667% */
+  position: relative;
+  top: 100px;
+  left: 80px;
+}
+.number {
+  color: #f2e8e8;
+  font-family: Inter;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px; /* 166.667% */
+  position: relative;
+  top: -400px;
+  left: 880px;
+}
+
+.gmail {
+  color: #f2e8e8;
+  font-family: Inter;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px; /* 166.667% */
+  position: relative;
+  top: -400px;
+  left: 880px;
 }
